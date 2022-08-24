@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/MayconMaiaDev/"><i>Maycon Gomes</i></a> 😃️</h1>
-  <p align="center">Estudo Banco de Dados na UNIP
+  <p align="center">Estudo Banco de Dados na PUC
   <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://media-exp1.licdn.com/dms/image/C4E03AQF4WTw5buQvlQ/profile-displayphoto-shrink_200_200/0/1584490076561?e=2147483647&v=beta&t=A7_QVLm7qUeisIY_cWQkFax03XchGSH8Olh6F9VqWCI="_blank" />
   </a><br>
