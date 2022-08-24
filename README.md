@@ -1,18 +1,14 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/MayconMaiaDev/"><i>Maycon Gomes</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
+  <p align="center">Estudo Banco de Dados na UNIP
   <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://media-exp1.licdn.com/dms/image/C4E03AQF4WTw5buQvlQ/profile-displayphoto-shrink_200_200/0/1584490076561?e=2147483647&v=beta&t=A7_QVLm7qUeisIY_cWQkFax03XchGSH8Olh6F9VqWCI="_blank" />
   </a><br>
   <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
-
-
-<!-- <h1 align="center"> 
-  Trybe
+  
 </h1>
 
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
   <a href="https://github.com/MayconMaiaDev">
