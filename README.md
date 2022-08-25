@@ -1,9 +1,8 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/MayconMaiaDev/"><i>Maycon Gomes</i></a> 😃️</h1>
-  <p align="center">Estudo Banco de Dados na PUC
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/MayconMaiaDev/"><i>Maycon Gomes</i></a>😃️</h1>
+  <p align="center">Estudo Analise e Desenvolvimento de Sistemas na UNIP e estudo Banco de Dados na PUC. Atualmente atuo na area de banco de dados como DBA Progress\Oracle
     <img width="10%" align="center" valign="middle" src="https://avatars.githubusercontent.com/u/86531134?v=4"_blank" />
   </a><br>
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
   
 </h1>
@@ -23,7 +22,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg](https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
