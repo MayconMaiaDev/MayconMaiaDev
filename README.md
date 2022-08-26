@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/MayconMaiaDev/"><i>Maycon Gomes</i></a>😃️</h1>
-  <p align="center">Estudo Analise e Desenvolvimento de Sistemas na UNIP e estudo Banco de Dados na PUC. <br>Atualmente atuo na area de banco de dados como DBA Progress\Oracle
+  <h1 align="center">Opa, tudo bem ? Meu nome é: <a href="https://www.linkedin.com/in/MayconMaiaDev/"><i>Maycon Gomes</i></a>😃️</h1>
+  <p align="center">Aluno de Analise e Desenvolvimento de Sistemas e Banco de Dados <br>Atualmente atuo na area de banco de dados como DBA Progress\Oracle
   </a><br>
 </div>
  
