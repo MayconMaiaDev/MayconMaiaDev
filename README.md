@@ -1,7 +1,6 @@
 <div>
   <h1 align="center">Opa, tudo bem ? Meu nome é: <a href="https://www.linkedin.com/in/MayconMaiaDev/"><i>Maycon Gomes</i></a>😃️</h1>
-  <p align="center">Sou aluno do curso dee Banco de Dados na PUC-Minas Gerais<br>Atualmente atuo na area de banco de dados como DBA Oracle
-  </a><br>
+Administrador de Dados Oracle  </a><br>
 </div>
  
 </h1>
